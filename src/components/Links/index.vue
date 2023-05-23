@@ -46,33 +46,33 @@ let linksData = [
   {
     icon: Blog,
     name: "博客",
-    link: "https://blog.imsyy.top/",
+    link: "https://blog.shinka.top/",
   },
   {
     icon: Cloud,
-    name: "网盘",
-    link: "https://pan.imsyy.top/",
+    name: "网盘(W.I.P)",
+    link: "https://pan.shinka.top/",
   },
   {
-    icon: CompactDisc,
-    name: "音乐",
-    link: "https://music.imsyy.top/",
+    icon: Cloud,
+    name: "鱼塘下载站",
+    link: "https://ariespan.org",
   },
   {
     icon: Compass,
-    name: "起始页",
-    link: "https://nav.imsyy.top/",
+    name: "关于",
+    link: "https://blog.shinka.top/about",
   },
-  {
-    icon: Book,
-    name: "网址集",
-    link: "https://web.imsyy.top/",
-  },
-  {
-    icon: Fire,
-    name: "今日热榜",
-    link: "https://hot.imsyy.top/",
-  },
+  // {
+  //   icon: Book,
+  //   name: "网址集",
+  //   link: "https://web.imsyy.top/",
+  // },
+  // {
+  //   icon: Fire,
+  //   name: "今日热榜",
+  //   link: "https://hot.imsyy.top/",
+  // },
 ];
 
 // 链接跳转
