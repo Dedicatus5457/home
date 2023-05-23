@@ -2,7 +2,11 @@
   <footer>
     <div class="power" v-show="!store.playerState">
       <span
-        >Copyright&nbsp;&copy;&nbsp;{{ fullYear }}
+      >Mod by
+          <a href="https://shinka.top">Dedicatus5457(Shinka) </a>
+      </span>
+      <span
+        >Original Copyright&nbsp;&copy;&nbsp;{{ fullYear }}
         <a href="https://imsyy.top">無名</a>
       </span>
       <!-- 以下信息请不要修改哦 -->
@@ -15,8 +19,8 @@
         </a></span
       >&nbsp;&amp;
       <!-- 站点备案 -->
-      <a href="https://beian.miit.gov.cn" target="_blank"
-        >豫ICP备2022018134号-1</a
+      <a href="https://opensource.org/license/mit/" target="_blank"
+        >O.S under MIT License</a
       >
     </div>
     <div class="lrc" v-show="store.playerState">
