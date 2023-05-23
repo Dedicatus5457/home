@@ -28,7 +28,7 @@ const changeBg = (type) => {
       Math.random() * 10 + 1
     )}.webp`;
   } else if (type == 0) {
-    bgUrl.value = "https://img.paulzzh.com/touhou/konachan/jpeg/0c1370a3378f31abb3a393f59c4e2b1e.jpg";
+    bgUrl.value = "https://img.paulzzh.com/touhou/random?site=all";
   // } else if (type == 2) {
   //   bgUrl.value = "https://api.btstu.cn/sjbz/api.php?lx=fengjing&format=images";
   // } else if (type == 3) {
